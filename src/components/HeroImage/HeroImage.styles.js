@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const Wrapper = styled.div`
+    position: relative;
     background: linear-gradient(
         to bottom,
         rgba(0, 0, 0, 0) 41%,
